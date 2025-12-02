@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "テトリス / 鹿乃 cover.",
+  "base_artist": "鹿乃",
+  "createdAt": "2025-12-02T01:03:59.562485Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "テトリス",
+      "artist": "柊マグネタイト",
+      "has_synced": true,
+      "path": "select/01_テトリス_柊マグネタイト.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "テトリス(Tetoris)",
+      "artist": "柊マグネタイト",
+      "has_synced": true,
+      "path": "select/02_テトリス(Tetoris)_柊マグネタイト.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "テトリス",
+      "artist": "Plastic Tree",
+      "has_synced": false,
+      "path": "select/pl_01_テトリス_Plastic_Tree.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Tetris",
+      "artist": "Plastic Tree",
+      "has_synced": false,
+      "path": "select/pl_02_Tetris_Plastic_Tree.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "てとりす",
+      "artist": "Plastic Tree",
+      "has_synced": false,
+      "path": "select/pl_03_てとりす_Plastic_Tree.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "テトリス",
+      "artist": "Plastic Tree",
+      "has_synced": false,
+      "path": "select/pl_04_テトリス_Plastic_Tree.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "テトリス",
+      "artist": "Plastic Tree",
+      "has_synced": false,
+      "path": "select/pl_05_テトリス_Plastic_Tree.txt"
+    }
+  ]
+}
